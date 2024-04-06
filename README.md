@@ -1,16 +1,19 @@
-# komikoproject
 
-A new Flutter project.
+# Flutter KomikoApp
 
-## Getting Started
+halo ini adalah project terbaru saya. project aplikasi flutter komiko app. berjalan dengan server node js yang ada di repositori saya sebelumnya. projek ini saya buat dengan fremawork flutter dengan state management Getx
 
-This project is a starting point for a Flutter application.
+baca dokumentasi sebelum menggunakan ya. 
 
-A few resources to get you started if this is your first Flutter project:
+jalankan flutter pub get sebelum menggunakan project ini.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ 
+ 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+## Priview App
+
+
+
