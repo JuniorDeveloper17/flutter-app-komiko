@@ -5,13 +5,19 @@ halo ini adalah project terbaru saya. project aplikasi flutter komiko app. berja
 
 baca dokumentasi sebelum menggunakan ya. 
 
-jalankan flutter pub get sebelum menggunakan project ini.
+
+## Running Tests
+
+To run tests,
+
+```bash
+  git clone https://github.com/JuniorDeveloper17/flutter-app-komiko.git
+```
+```bash
+  flutter pub get
+```
 
  
- 
-
-
-
 
 ## Priview App
 
@@ -23,3 +29,6 @@ jalankan flutter pub get sebelum menggunakan project ini.
 
 
 
+## Bekerja sama dengan saya?
+
+Hub
