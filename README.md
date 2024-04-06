@@ -35,6 +35,6 @@ To run tests,
 
 
 
-## Bekerja sama dengan saya?
+## Ingin Berkontribusi dengan saya?
 
 Hubungi saya email ryanxxjr@gmail.com 
