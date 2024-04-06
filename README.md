@@ -10,6 +10,12 @@ baca dokumentasi sebelum menggunakan ya.
 
 To run tests,
 
+```
+   jalanlan serve nya https://github.com/JuniorDeveloper17/api-komik-scraping-node-js.git
+```
+```
+   ganti base url dengan alamat ip komputer kamu
+```
 ```bash
   git clone https://github.com/JuniorDeveloper17/flutter-app-komiko.git
 ```
