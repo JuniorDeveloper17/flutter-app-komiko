@@ -37,4 +37,4 @@ To run tests,
 
 ## Bekerja sama dengan saya?
 
-Hub
+Hubungi saya email ryanxxjr@gmail.com 
