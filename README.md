@@ -15,5 +15,11 @@ jalankan flutter pub get sebelum menggunakan project ini.
 
 ## Priview App
 
+![alt text](https://github.com/JuniorDeveloper17/flutter-app-komiko/blob/master/assets/priview/1.jpg)
+![alt text](https://github.com/JuniorDeveloper17/flutter-app-komiko/blob/master/assets/priview/2.jpg)
+![alt text](https://github.com/JuniorDeveloper17/flutter-app-komiko/blob/master/assets/priview/3.jpg)
+![alt text](https://github.com/JuniorDeveloper17/flutter-app-komiko/blob/master/assets/priview/4.jpg)
+
+
 
 
